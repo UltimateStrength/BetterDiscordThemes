@@ -1,0 +1,12 @@
+{
+    "currentVersionInfo": {
+        "version": "2.2.1",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "blacklist": [
+            "197038439483310086"
+        ],
+        "sticky": true
+    }
+}
